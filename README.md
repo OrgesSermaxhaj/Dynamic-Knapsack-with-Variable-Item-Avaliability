@@ -54,7 +54,7 @@ After filling the dp table:
 - Find the maximum value across all time steps and weights
 - Reconstruct the selected items using the traceback table
 
-
+---
 
 ## How to Use the Program
 ### Input
@@ -67,8 +67,11 @@ After filling the dp table:
 - Time step when this value is achieved.
 - Details of the selected items (value, weight, availability time).
 
+---
 
 ## Example Input/Output
+
+---
 
 ## Algorithm Summary
 1. Dynamic Programming: Solve subproblems (max value at each time/weight).
@@ -79,7 +82,7 @@ After filling the dp table:
    
 4. Space Complexity: O(maxTime x maxWeight) for the dp and traceback tables
 
-
+---
 
 ## Conclusion
 This program offers a robust solution for solving the dynamic knapsack problem with time-dependent item availability using dynamic programming. It ensures both optimality and clarity in reconstructing the selected items.
