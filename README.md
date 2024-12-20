@@ -70,6 +70,7 @@ After filling the dp table:
 ---
 
 ## Example Input/Output
+![image alt](https://github.com/OrgesSermaxhaj/Dynamic-Knapsack-with-Variable-Item-Avaliability/blob/14346ee0012912cc859251e0e1bada6fcb1a0fc1/screenshot2.PNG)
 
 ---
 
